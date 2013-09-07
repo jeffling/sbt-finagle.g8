@@ -1,0 +1,3 @@
+scalaVersion := "$scalaVersion$"
+
+organization := "$org$"
