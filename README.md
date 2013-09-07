@@ -27,3 +27,5 @@ Run the server
 Run a specs2 test  
 
     sbt server/test
+
+Special thanks to [@jedesah](https://github.com/jedesah). We miss you come back D:
